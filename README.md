@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+    <html>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link href = "mypage.css" rel = "stylesheet" type ="text/css">
+      <head>
+        <title>About Me</title>
+      </head>
+      <body>
+        <h1>Larson, Lina</h1>
+        <p>I'm a computer science major, and I work at Chipotle. </p>
+        <h2> My Professional Profile </h2>
+        <a href = "https://github.com/linajlarson" target = "_blank"> Linas GitHub  <a/>
+        <br>
+        <img src= "img/60F534E9-89FF-4F07-B7E9-A482882BCADE.jpg" class="rounded-circle" height = "550" width = "550">
+        <h3> My favorite Project </h3>
 
-You can use the [editor on GitHub](https://github.com/linajlarson/AboutMe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<table>
+        <tr>
+          <th>Project Name</th>
+          <th>Technologies used</th>
+        </tr>
+        <tr>
+          <td>Linux</td>
+          <td>C</td>
+        </tr>
+        <tr>
+          <td>Git</td>
+          <td>C++</td>
+        </tr>
+        <tr>
+          <td>Atom</td>
+          <td>C++</td>
+        </tr>
+      </table>
+      <h3> Interests </h3>
+      <br>
+      <ul>
+      <li> Netflix </li>
+      <li> Acting </li>
+      <li> coffee </li>
+       </ul>
+        </body>
+    </html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linajlarson/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
